@@ -1,0 +1,49 @@
+body {
+      background-color: lightblue;
+    }
+
+   #title {
+    text-align: center;
+    font-family: Times New Roman, serif;
+    color: darkgreen;
+    margin-top: 50px;
+   }
+
+    .div {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 300px;
+      background-color: lightgray;
+      margin-top: 100px;
+      
+    }
+
+   
+    input[type="number"], select {
+      padding: 10px;
+      border-radius: 5px;
+      border: none;
+      margin: 10px;
+      width: 300px;
+      font-size: 18px;
+    }
+
+    input[type="submit"] {
+      background-color: grey;
+      color: white;
+      cursor: pointer;
+      width: 150px;
+      height: 40px;
+      font-size: 20px;
+      border-radius: 5px;
+    }
+
+    #rez {
+      font-size: 32px;
+      text-align: center;
+      margin-top: 20px;
+      color: darkblue;
+      font-family: cursive;
+     
+    }
